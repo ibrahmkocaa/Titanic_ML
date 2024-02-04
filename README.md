@@ -1,6 +1,6 @@
 # Titanic-ML
 
-Bu notebook'ta, Kaggle'da bulunan Titanik veri seti üzerinde yapılan veri analizi ve makine öğrenimi çalışmasını içermektedir. Projede, Titanik gemisinin yolcularının hayatta kalma durumunu tahmin etmek için makine öğrenimi sınıflandırma algoritması Rastgele Orman (Random Forest) algoritması kullanılmıştır.
+Bu notebook'ta, Kaggle'da bulunan Titanik veri seti üzerinde yapılan veri analizi ve makine öğrenimi çalışmasını içermektedir. Projede, Titanik gemisinin yolcularının hayatta kalma durumunu tahmin etmek için makine öğrenimi algoritması kullanılmıştır.
 
 
 ## Veri Seti
